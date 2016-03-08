@@ -1,0 +1,52 @@
+$f
+function (x) 
+{
+    sign(sum(w_optimal * x) - b_optimal)
+}
+<environment: 0x12c3a88>
+
+$w
+[1]  0.6666667 -0.8333333
+
+$b
+[1] 0
+
+[1] "perceptron model training checks"
+[1] -1
+[1] TRUE
+[1] -1
+[1] TRUE
+[1] -1
+[1] TRUE
+[1] 1
+[1] TRUE
+[1] 1
+[1] TRUE
+[1] "simple model training checks"
+[1] -1
+[1] TRUE
+[1] -1
+[1] TRUE
+[1] -1
+[1] TRUE
+[1] 1
+[1] TRUE
+[1] 1
+[1] TRUE
+[1] "maximum margin classifier"
+[1] -1
+[1] TRUE
+[1] -1
+[1] TRUE
+[1] -1
+[1] TRUE
+[1] 1
+[1] TRUE
+[1] 1
+[1] TRUE
+[1] "perceptron prediction:"
+[1] 1
+[1] "simple prediction:"
+[1] -1
+[1] "maximum margin prediction:"
+[1] -1
